@@ -22,6 +22,7 @@ def my_list():
         # time.sleep(1)
     # print(x)
     print(x.get_string(title="TODO List"))
+    x.clear_rows()
 
 
 running = True

@@ -1,2 +1,2 @@
 # to-do-list
- This is my first to-do-list application
+ TODO list application for beginners python programmers. Console application. 
